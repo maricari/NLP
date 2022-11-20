@@ -30,9 +30,12 @@ Para el ejercicio se consumieron datos de la misma [página con refranes alusivo
 
 - **Código**: [3c_Custom_embedding_con_Gensim_homework.ipynb](https://github.com/maricari/NLP/blob/main/3c_Custom_embedding_con_Gensim_homework.ipynb)
 ---
-#### 4. TO-DO
-- **Objetivo**: 
-- **Código**: * *
+#### 4. Predicción de próxima palabra
+- **Objetivo**: Utilizar un corpus para crear embeddings de palabras basado en ese contexto utilizando la layer Embedding de Keras. Utilizar esos embeddings junto con layers LSTM para la predicción de la próxima palabra.
+
+Para el ejercicio se utilizó el libro [Origen de los indios de América](https://www.gutenberg.org/cache/epub/56219/pg56219-images.html).
+
+- **Código**: [4e_prediccion_palabra_homework.ipynb](https://github.com/maricari/NLP/blob/main/4e_predicci%C3%B3n_palabra_homework.ipynb)
 ---
 #### 5. TO-DO
 - **Objetivo**: 
