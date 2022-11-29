@@ -38,8 +38,9 @@ Para el ejercicio se utilizó el libro [Origen de los indios de América](https:
 - **Código**: [4e_prediccion_palabra_homework.ipynb](https://github.com/maricari/NLP/blob/main/4e_predicci%C3%B3n_palabra_homework.ipynb)
 ---
 #### 5. TO-DO
-- **Objetivo**: 
-- **Código**: * *
+- **Objetivo**: Utilizar Embeddings + LSTM para clasificar críticas de compradores de ropa. Se deberá balancear el dataset, y probar con y sin embeddings pre-entrenados. El accuracy de validación deberá rondar entre los 0.5 y 0.7.
+
+- **Código**: [5_clothing_ecommerce_reviews.ipynb](https://github.com/maricari/NLP/blob/main/5_clothing_ecommerce_reviews.ipynb)
 ---
 #### 6. TO-DO
 - **Objetivo**: 
