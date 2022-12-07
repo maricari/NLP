@@ -49,5 +49,8 @@ Para el ejercicio se utilizó el libro [Origen de los indios de América](https:
 ---
 #### 6. QA Bot
 ![alt text](https://github.com/maricari/NLP/blob/main/img/ch6.jpg)
-- **Objetivo**: Construir QA Bot basado en el ejemplo del traductor dado en clase pero con un dataset QA. 
-- **Código**: * *
+- **Objetivo**: Construir un Bot de preguntas y respuestas utilizando embeddings preentrenados (Fasttext).
+
+Para este ejercicio se utilizaron datos del challenge [ConvAI2](https://convai.io/) (Conversational Intelligence Challenge 2) de conversaciones en inglés.
+
+- **Código**: [6_bot_qa.ipynb](https://github.com/maricari/NLP/blob/main/6_bot_qa.ipynb)
