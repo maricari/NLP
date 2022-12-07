@@ -45,6 +45,8 @@ Para el ejercicio se utilizó el libro [Origen de los indios de América](https:
 ![alt text](https://github.com/maricari/NLP/blob/main/img/ch5.jpg)
 - **Objetivo**: Utilizar Embeddings + LSTM para clasificar críticas de compradores de ropa. Se deberá balancear el dataset, y probar con y sin embeddings pre-entrenados. El accuracy de validación deberá rondar entre los 0.5 y 0.7.
 
+Para este ejercicio se utilizaron datos de [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) de Kaggle.
+
 - **Código**: [5_clothing_ecommerce_reviews.ipynb](https://github.com/maricari/NLP/blob/main/5_clothing_ecommerce_reviews.ipynb)
 ---
 #### 6. QA Bot
